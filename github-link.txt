@@ -1,4 +1,0 @@
-https://github.com/sparkfun/Arduino_Pro_Mini_328
-https://github.com/arduino/arduino-ide
-https://github.com/arduino/arduino-cli
-https://github.com/arduino ------- There are about 260 repositories in the link
